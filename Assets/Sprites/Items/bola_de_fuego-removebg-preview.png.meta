@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 1f4193b65e3c95f48bb4ca43bb4a48eb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 140
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 265
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d857c4eaed7e0a84486ced565da214dd
+      internalID: 1830947734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 265
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2421be325c56df445909e5f0a285b10b
+      internalID: -1320842140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 265
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df6dd38394617a4f9bc1648b585b7da
+      internalID: 1922921876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 265
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a121d9f53a6c97345b0dc108f9215050
+      internalID: 2046718967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 265
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05abb06eba05c4a419d8181fccebb9bd
+      internalID: -1982999974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 265
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7af69e3dc44bbc4cb84c2e6f8ff4077
+      internalID: 1383540951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 265
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efedf2d531cd8e49a428270b0703d96
+      internalID: 119114390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 265
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e5fd81024992f4f894e533e49e535d
+      internalID: -1433171659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b229a825c38f7ab448dfb567aeb96f6c
+      internalID: 1555652541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 49
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3dcf6f9713183409eef6ea9ffe761c
+      internalID: 357066556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 49
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b8360403c98944cb261b6f382e3f14
+      internalID: -926523678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 49
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a97b06e7df1bb46aaa71e873ab3b08
+      internalID: -1334397473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 48
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67a2e9d6458858458e5f664042bdbeb
+      internalID: -1358891504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 48
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eb4e2eecb14044b97dafe0846db891
+      internalID: -1829628777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 48
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f485577009ec80b438675c6cdb632359
+      internalID: 72743897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_de_fuego-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 49
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdc81f8fd1657c49a6a37c0341ac7e5
+      internalID: 1818538015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bola_de_fuego-removebg-preview_0: -1256183008
+      bola_de_fuego-removebg-preview_1: 1830947734
+      bola_de_fuego-removebg-preview_10: 15494745
+      bola_de_fuego-removebg-preview_11: 119114390
+      bola_de_fuego-removebg-preview_12: -1433171659
+      bola_de_fuego-removebg-preview_13: 1899671605
+      bola_de_fuego-removebg-preview_14: 1958089120
+      bola_de_fuego-removebg-preview_15: 1555652541
+      bola_de_fuego-removebg-preview_16: 357066556
+      bola_de_fuego-removebg-preview_17: -926523678
+      bola_de_fuego-removebg-preview_18: -1334397473
+      bola_de_fuego-removebg-preview_19: -388623627
+      bola_de_fuego-removebg-preview_2: -1320842140
+      bola_de_fuego-removebg-preview_20: -1358891504
+      bola_de_fuego-removebg-preview_21: -107135481
+      bola_de_fuego-removebg-preview_22: -2062711089
+      bola_de_fuego-removebg-preview_23: -1829628777
+      bola_de_fuego-removebg-preview_24: -856846009
+      bola_de_fuego-removebg-preview_25: 72743897
+      bola_de_fuego-removebg-preview_26: 1818538015
+      bola_de_fuego-removebg-preview_3: 1922921876
+      bola_de_fuego-removebg-preview_4: 2046718967
+      bola_de_fuego-removebg-preview_5: -350360844
+      bola_de_fuego-removebg-preview_6: -1982999974
+      bola_de_fuego-removebg-preview_7: 406310965
+      bola_de_fuego-removebg-preview_8: -450128558
+      bola_de_fuego-removebg-preview_9: 1383540951
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
